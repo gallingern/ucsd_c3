@@ -1,0 +1,6 @@
+John Smith 37 72.25 189.37
+Sally Jones 26 60.18 107.88
+Aaron Anderson 12 55.50 89.30
+Janet Anderson 10 49.00 60.98
+Brian Doe 28 76.11 238.00
+Brett Daniels 48 69.01 189.74
